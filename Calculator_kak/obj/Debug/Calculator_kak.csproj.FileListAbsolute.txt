@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\bin\Debug\Calculator_kak.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\bin\Debug\Calculator_kak.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\bin\Debug\Calculator_kak.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\obj\Debug\Calculator_kak.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\obj\Debug\Calculator_kak.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\obj\Debug\Calculator_kak.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\obj\Debug\Calculator_kak.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\13-10-2016\Calculator_kak\Calculator_kak\obj\Debug\Calculator_kak.pdb
